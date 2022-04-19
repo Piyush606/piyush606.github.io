@@ -1,0 +1,101 @@
+.carousal-box{
+    height: 100vh;
+}
+
+/* contact */
+.contact-us{
+    background-color: #f5f7fa;
+    height: 200px;
+}
+
+.contact-button{
+    background-color: transparent;
+    border: solid #ff9f00 2px;
+    color: #ff9f00;
+}
+
+/* products */
+#headphones{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+}
+
+#laptops{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+}
+
+.product-heading, .product-desc{
+    color: white;
+}
+
+.product{
+    border-radius: 20px;
+    height: 350px;
+}
+
+.button{
+    color: #ff9f00;
+    background-color: white;
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+}
+
+.see-offers{
+    text-align: right;
+}
+.see-offers a{
+    color: #ff9f00;
+}
+
+.modal-button{
+    color: black;
+    border: solid 2px black;
+    background-color: transparent;
+}
+
+/* offers section */
+.offers{
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+}
+
+.offer-heading{
+    color: white;
+    font-weight: bold;
+}
+
+/* blogs */
+.read-more{
+    color: #ff9f00;
+}
+
+/* exxplore */
+.explore{
+    background-color: #f5f7fa;
+}
+
+/* footer */
+.footer{
+    background-color: #0d2436;
+}
+
+.footer-links{
+    color: white;
+}
+.footer-links:hover {
+    color: gray;
+    text-decoration: none;
+}
+
+.footer-heading{
+    color: white;
+    font-weight: bold;
+}
+
+.social-media-icons{
+    background-color: #5a7184;
+    border-radius: 50px;
+    margin: 10px;
+    padding: 10px;
+}
